@@ -8,3 +8,5 @@ Printers currently included in this repository
 * Velleman K8200
 * Turnigy Fabrikator
  * Note these are for reference only, firmware has not been flashed yet and hence not tested.
+* NFire Delta
+ * Note, these are for reference only, firmware has not be flashed yet and hence not tested.
